@@ -1,6 +1,6 @@
 # Data-Driven-Drilling-Optimization
 
-Key Points:  
+Key Points:-
 1. The project focuses on determining output parameters like MRR, Circularity, Cylindricity, and Delamination Factor.  
 2. Started with an initial dataset of 28 datapoints generated from practical work.  
 3. Regression formulas were provided but required modifications for better output parameter calculation.  
