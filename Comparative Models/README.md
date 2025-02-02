@@ -9,7 +9,7 @@ We used these 27 data points and Input Parameter values and generated the theore
 
 **Comparative_Modelv1.ipynb** performs training and testing of Dataset 1 of around 360 data points through augmentation on a given Comparative Model.
 
-**Comparative_Modelv2.ipynb** performs training and testing of Dataset 2 of around 1200 data points through augmentation on a given Comparative Model.
+**Comparative_Modelv2.ipynb** performs training and testing of Dataset 2 of around 1600 data points through augmentation on a given Comparative Model.
 
 We Trained the Model on 2 Different Datasets to guess the best results among two datasets.
 
