@@ -5,7 +5,7 @@ This folder consists of information about the Proposed Esembled Model performed 
 
 The proposed Esembled Model consists of XGBoost, MLP, and LSTM.
 
-**Proposed_Esemble_Model.ipynb** performs training and testing of Dataset 2 of around 1200 data points through augmentation on a given Esembled Model.
+**Proposed_Esemble_Model.ipynb** performs training and testing of Dataset 2 of around 1600 data points through augmentation on a given Esembled Model.
 
 Tasks Performed in these Models involve:-
 
