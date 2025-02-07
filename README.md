@@ -12,5 +12,5 @@ Key Points:-
    - Training R² Score: 0.9998039040148634  
    - Testing R² Score: 0.9901063078586306  
 7. Plans to add more metrics like MAE, RMSE, and various charts for better performance analysis.  
-8. Development of a proposed model using ensemble techniques like XGBoost, MLP, and LSTM for deeper insights.  
+8. Development of a proposed model using ensemble techniques like XGBoost, MLP, and LSTM for deeper insights.
 9. Dataset was further augmented to 1600 datapoints for the proposed model, which will include detailed metrics and visualizations.
